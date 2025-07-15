@@ -2483,6 +2483,8 @@ name = "learning-burn"
 version = "0.1.0"
 dependencies = [
  "burn",
+ "byteorder",
+ "ndarray",
 ]
 
 [[package]]
