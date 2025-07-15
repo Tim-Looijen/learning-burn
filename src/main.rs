@@ -1,0 +1,3 @@
+mod mnist;
+
+fn main() {}
