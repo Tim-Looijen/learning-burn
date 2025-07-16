@@ -5,5 +5,7 @@ edition = "2024"
 
 [dependencies]
 burn = { version = "0.17.1", features = ["cuda"] }
+burn-mnist = "0.1.1"
 byteorder = "1.5.0"
 ndarray = "0.16.1"
+vision = "0.0.2"
